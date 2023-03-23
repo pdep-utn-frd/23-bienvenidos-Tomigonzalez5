@@ -1,7 +1,9 @@
 ## Presentación
 ### Datos Personales
 Nombre: Tomás Iván González
+
 Localidad: Los Cardales
+
 Legajo: 12112
 ### Sobre Mi
 Me gusta el fútbol, la música, tocar la guitarra y cantar.
